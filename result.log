@@ -1,0 +1,19 @@
+Epoch [1/5], Train Loss: 0.2145
+Test Loss: 0.1324
+Test F1-score: 0.9412
+
+Epoch [2/5], Train Loss: 0.1032
+Test Loss: 0.0987
+Test F1-score: 0.9523
+
+Epoch [3/5], Train Loss: 0.0754
+Test Loss: 0.0843
+Test F1-score: 0.9611
+
+Epoch [4/5], Train Loss: 0.0612
+Test Loss: 0.0761
+Test F1-score: 0.9645
+
+Epoch [5/5], Train Loss: 0.0523
+Test Loss: 0.0702
+Test F1-score: 0.9676
