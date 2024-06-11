@@ -22,7 +22,7 @@ The dataset is located in the `data` directory and is loaded using the `SMSDatas
 
 ## Model Architecture
 
-![avag](.\imgs\1.png)
+![avag](./imgs/1.png)
 
 The model architecture consists of two main components:
 
